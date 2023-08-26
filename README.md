@@ -9,21 +9,21 @@ The goal is to predict the top scoring players at each postion and rank all play
 
 
 
-Variables include
-weekly_rank	
-position	
-PlayerName	
-team	
-PlayerScoreActual	
-PlayerScoreProjected	
-PlayerFantasyTeam	
-PlayerRosterSlot	
-qb_rank	
-home	
-away	
-opponent	
-defense_rank	
-last_week_score	
-avg_diff_vs_prediction
+__features__
+- weekly_rank	
+- position	
+- PlayerName	
+- team	
+- PlayerScoreActual	
+- PlayerScoreProjected	
+- PlayerFantasyTeam	
+- PlayerRosterSlot	
+- qb_rank	
+- home	
+- away	
+- opponent	
+- defense_rank	
+- last_week_score	
+- avg_diff_vs_prediction
 
 
